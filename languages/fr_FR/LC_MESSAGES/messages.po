@@ -237,7 +237,7 @@ msgstr "Lecteur d'annonces"
 
 #: String 56
 msgid "Ads title displayed"
-msgstr "Titre des annonces affiché"
+msgstr "Titre du Widget à afficher"
 
 #: String 57
 msgid "Ad Tools"
@@ -5569,7 +5569,7 @@ msgstr "Saisissez l'adresse"
 
 #: String 1389
 msgid "Type ads to display"
-msgstr "Type d'annonces à afficher"
+msgstr "Quelles annonces ce Widget doit afficher?"
 
 #: String 1390
 msgid "Type your password twice"
