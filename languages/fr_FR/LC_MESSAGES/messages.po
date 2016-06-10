@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: 2.5.1\n"
+"Project-Id-Version: 2.7.2\n"
 "POT-Creation-Date: 2015-11-09 11:15:40\n"
-"PO-Revision-Date: 2015-11-09 11:15:40\n"
+"PO-Revision-Date: 2016-06-10 17:26:15\n"
 "Last-Translator: Translator <translator@open-classifieds.com>\n"
 "Language-Team: en\n"
 "Language: fr\n"
@@ -237,7 +237,7 @@ msgstr "Lecteur d'annonces"
 
 #: String 56
 msgid "Ads title displayed"
-msgstr "Titre des annonces affiché"
+msgstr "Titre du Widget à afficher"
 
 #: String 57
 msgid "Ad Tools"
@@ -5569,7 +5569,7 @@ msgstr "Saisissez l'adresse"
 
 #: String 1389
 msgid "Type ads to display"
-msgstr "Type d'annonces à afficher"
+msgstr "Quelles annonces ce Widget doit afficher?"
 
 #: String 1390
 msgid "Type your password twice"
